@@ -1,4 +1,4 @@
-# projects
+# Репозиторий учебных проектов
 
 ## projects during studying
 
