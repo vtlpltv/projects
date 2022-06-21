@@ -14,4 +14,4 @@
 - Для новых клиентов рассмотреть введение льготных цен на продление первого абонемента.
 
 <b>Стек:</b>
-numpy, pandas, matplotlib, scipy, seaborn, plotly, sklearn, kmeans, dendrogram, linkage,
+numpy, pandas, matplotlib, scipy, seaborn, plotly, sklearn, kmeans, dendrogram, linkage, catboost
